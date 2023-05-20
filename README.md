@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------
 
-# ICRA 2022 BARN Challenge
+# ICRA 2023 BARN Challenge- RIL Submission
 
 ## Requirements
 If you run it on a local machine without containers:
