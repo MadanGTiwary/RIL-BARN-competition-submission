@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------
 
-# ICRA 2023 BARN Challenge- RIL Submission
+# ICRA 2023 BARN Challenge- RIL Submission [10th rank overall]
 
 ## Requirements
 If you run it on a local machine without containers:
